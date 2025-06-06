@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Profile</title>
+</head>
+<body>
+
+  <header>
+    <h1>My Profile</h1>
+    <nav>
+      <ul>
+        <li>About Me</li>
+        <li>Hobbies</li>
+        <li>Contact</li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <img src="https://via.placeholder.com/150" alt="Profile picture">
+      <p>Hello! I'm Vivian, a passionate learner and aspiring web developer. I enjoy exploring new technologies and building creative web projects.</p>
+    </section>
+
+    <section>
+      <h2>Hobbies & Interests</h2>
+      <ul>
+        <li>Coding and web development</li>
+        <li>Reading sci-fi novels</li>
+        <li>Singing and Dancing</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>Contact me at: dorischy2@gmail.com</p>
+    <p>Facebook: @viviandoris</p>
+  </footer>
+
+</body>
+</html>
